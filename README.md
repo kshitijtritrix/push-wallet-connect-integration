@@ -16,4 +16,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-###Make sure you have trust wallet app installed in your android.
+### Make sure you have trust wallet app installed in your android.
